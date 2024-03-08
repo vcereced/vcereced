@@ -3,15 +3,16 @@
 <p float="left" align="center">
 
   <a href="https://github.com/vcereced/piscina42">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_piscine.png" width="265"/>
+    <img  width="265" src=https://github.com/vcereced/vcereced/assets/120835200/6ff9142e-aeaf-46e4-86b6-69cf3428f596>
   </a>
   &nbsp;
   
    <a href="https://github.com/vcereced/42-common-core">
-    <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core.png" width="265"/>
+     <img  width="265" src=https://github.com/vcereced/vcereced/assets/120835200/3b3e5983-99bb-4eaf-84cb-6340f1a111ff>
   </a>
   &nbsp;
-  <a href="https://github.com/vcereced/42-common-core">
+  
+  <a href="https://github.com/vcereced/Others">
   <img  width="265" src="https://github.com/vcereced/vcereced/assets/120835200/08071bbf-0247-4b58-baac-9650d79ca1d6" alt="311251375-379ae692-dfd9-4774-9ed7-2654d6465141-modified">
    </a>
 </p>
