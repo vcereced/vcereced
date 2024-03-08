@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/vcereced/42-common-core">
-    <img width="265" alt="Screen Shot 2024-03-08 at 2 45 57 PM" src="https://github.com/vcereced/vcereced/assets/120835200/379ae692-dfd9-4774-9ed7-2654d6465141">
+  <img  width="265" src="https://github.com/vcereced/vcereced/assets/120835200/08071bbf-0247-4b58-baac-9650d79ca1d6" alt="311251375-379ae692-dfd9-4774-9ed7-2654d6465141-modified">
    </a>
 </p>
  
@@ -25,8 +25,7 @@ SMALL ICONS
   </a>
   <a href='https://profile.intra.42.fr/users/vcereced' target="_blank"><img alt='42' src='https://img.shields.io/badge/Málaga-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vcereced&style=flat&color=blue"></a>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vcereced&style=flat&color=blue">
 </p>
 
 ## About me
