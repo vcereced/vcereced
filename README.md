@@ -10,6 +10,10 @@
    <a href="https://github.com/vcereced/42-common-core">
     <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/profile/github_profile_banner_round_common_core.png" width="265"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/vcereced/42-common-core">
+    <img width="265" alt="Screen Shot 2024-03-08 at 2 45 57 PM" src="https://github.com/vcereced/vcereced/assets/120835200/379ae692-dfd9-4774-9ed7-2654d6465141">
+   </a>
 </p>
  
 
