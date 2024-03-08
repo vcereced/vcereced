@@ -27,7 +27,7 @@ SMALL ICONS
 
 ## About me
 
-- 🌱 I’m currently studying Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
+- 🌱 I’m currently studying Common Core at [**42 Málaga**](https://www.42malaga.com) after successfully pass the Piscine challenge.
 - 👀 I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
 - 🚀 Additionally, I have an interest in `Cybersecurity`, `Python`, `Data Analysis` and `Project Management`.
 - 🛠️ I have six years of work experience in `Graphic Design` and `Offset Printing`.
