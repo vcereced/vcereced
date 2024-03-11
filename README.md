@@ -33,7 +33,7 @@ SMALL ICONS
 
 - 🎓 I’m currently studying Common Core at [**42 Málaga**](https://www.42malaga.com) after successfully pass the Piscine challenge.
 - 🧠 I’m interested in `Automotive Mechanics`, `Electromechanics`, and `Science`.
-- 🚀  Focus on my new passion `Low level programming`.
+- 🚀  Focus on my new passion `Low Level Programming`.
 
 <!---
 BIG ICONS
