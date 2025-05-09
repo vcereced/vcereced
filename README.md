@@ -31,9 +31,9 @@ SMALL ICONS
 
 ## About me
 
-- 🎓 I’m currently studying Common Core at [**42 Málaga**](https://www.42malaga.com) after successfully pass the Piscine challenge.
-- 🧠 I’m interested in `Automotive Mechanics`, `Electromechanics`, and `Science`.
-- 🚀  Focus on my new passion `Low Level Programming`.
+- 🎓 I have completed the Common Core at 42 Málaga, after successfully passing the Piscine challenge.
+- 🧠 I'm passionate about Automotive Mechanics, Electromechanics, and Science.
+- 🚀 Currently focused on Low-Level Programming, especially in C, C++, and also enjoy working with Python.
 
 <!---
 BIG ICONS
@@ -41,6 +41,6 @@ BIG ICONS
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,bash,linux,vim,vscode,markdown" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,git,bash" />
   </a>
 </p>
