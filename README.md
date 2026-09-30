@@ -1,17 +1,5 @@
 ## {"Code", "Build", "Succeed"};
 
-<p float="left" align="center">  
-   <a href="https://github.com/vcereced/42-common-core">
-     <img  width="265" src=https://github.com/vcereced/vcereced/assets/120835200/3b3e5983-99bb-4eaf-84cb-6340f1a111ff>
-  </a>
-  &nbsp;
-  
-  <a href="https://github.com/vcereced/Others">
-  <img  width="265" src="https://github.com/vcereced/vcereced/assets/120835200/08071bbf-0247-4b58-baac-9650d79ca1d6" alt="311251375-379ae692-dfd9-4774-9ed7-2654d6465141-modified">
-   </a>
-</p>
- 
-
 <!---
 SMALL ICONS
 --->
@@ -26,7 +14,7 @@ SMALL ICONS
 ## About me
 
 - 🎓 I have completed and enjoyed the Common Core at 42 Málaga and several IT certifications.
-- 🧠 I'm passionate about building projects, taking on challenges, and learning new things.
+- 🧠 I enjoy understanding how things work under the hood, from low-level programming to distributed systems.
 - 🚀 I'm a Junior Software Developer with a strong foundation in C, C++, and Python, focused on Low-Level Programming, Backend Development, Distributed Systems, and AI technologies.
 
 
@@ -38,6 +26,6 @@ BIG ICONS
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,docker,nginx,git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,django,fastapi,html,css,javascript,docker,nginx,mysql,redis,rabbitmq,git,bash" />
   </a>
 </p>
