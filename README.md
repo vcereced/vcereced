@@ -1,12 +1,6 @@
 ## {"Code", "Build", "Succeed"};
 
-<p float="left" align="center">
-
-  <a href="https://github.com/vcereced/piscina42">
-    <img  width="265" src=https://github.com/vcereced/vcereced/assets/120835200/6ff9142e-aeaf-46e4-86b6-69cf3428f596>
-  </a>
-  &nbsp;
-  
+<p float="left" align="center">  
    <a href="https://github.com/vcereced/42-common-core">
      <img  width="265" src=https://github.com/vcereced/vcereced/assets/120835200/3b3e5983-99bb-4eaf-84cb-6340f1a111ff>
   </a>
@@ -31,9 +25,12 @@ SMALL ICONS
 
 ## About me
 
-- 🎓 I have completed the Common Core at 42 Málaga, after successfully passing the Piscine challenge.
-- 🧠 I'm passionate about Automotive Mechanics, Electromechanics, and Science.
-- 🚀 Currently focused on Low-Level Programming, especially in C, C++, and also enjoy working with Python.
+- 🎓 I have completed and enjoyed the Common Core at 42 Málaga and several IT certifications.
+- 🧠 I'm passionate about building projects, taking on challenges, and learning new things.
+- 🚀 I'm a Junior Software Developer with a strong foundation in C, C++, and Python, focused on Low-Level Programming, Backend Development, Distributed Systems, and AI technologies.
+
+
+
 
 <!---
 BIG ICONS
